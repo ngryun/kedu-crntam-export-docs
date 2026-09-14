@@ -5,7 +5,7 @@ title: 개인정보 처리방침
 
 # 개인정보 처리방침 — K-에듀파인 예산현액 일괄 저장 (비공식)
 
-최종 수정: 2026-09-14 (버전 1.2.11 기준)
+최종 수정: 2026-09-14 (버전 1.2.12 기준)
 
 이 확장 프로그램은 개인이 만든 업무 보조 도구이며, 강원특별자치도교육청, 교육부, 한국교육학술정보원(KERIS)의 공식 제품이 아닙니다.
 
@@ -45,3 +45,5 @@ title: 개인정보 처리방침
 
 이메일: ngryun@gmail.com  
 문의 게시판(GitHub Issues): https://github.com/ngryun/kedu-crntam-export-docs/issues
+
+이 문서의 공개 주소: https://ngryun.github.io/kedu-crntam-export-docs/
